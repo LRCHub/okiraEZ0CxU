@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Days",
+  "base_artist": "FLOW",
+  "createdAt": "2025-12-05T04:38:08.209407Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hard Days",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/01_Hard_Days_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hard Days",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/02_Hard_Days_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Million Days (feat. Claire Ridgely) [Mixed]",
+      "artist": "Sabai",
+      "has_synced": false,
+      "path": "select/03_Million_Days_(feat._Claire_Ridgely)_[Mixed]_Sabai.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Somehow You Do (From The Motion Picture Four Good Days)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/04_Somehow_You_Do_(From_The_Motion_Picture_Four_Good_Days)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "These Days",
+      "artist": "Rudimental feat. Jess Glynne, Macklemore & Dan Caplen",
+      "has_synced": true,
+      "path": "select/05_These_Days_Rudimental_feat._Jess_Glynne,_Macklemore_&_Dan_Caplen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wilder Days",
+      "artist": "Morgan Wade",
+      "has_synced": true,
+      "path": "select/06_Wilder_Days_Morgan_Wade.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "11 Months and 29 Days",
+      "artist": "Johnny Paycheck",
+      "has_synced": true,
+      "path": "select/07_11_Months_and_29_Days_Johnny_Paycheck.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "11 Months And 29 Days (Album Version)",
+      "artist": "Johnny Paycheck",
+      "has_synced": true,
+      "path": "select/08_11_Months_And_29_Days_(Album_Version)_Johnny_Paycheck.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "7 Months, 39 Days",
+      "artist": "Hank Williams III",
+      "has_synced": true,
+      "path": "select/09_7_Months,_39_Days_Hank_Williams_III.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Back In The Goodle Days",
+      "artist": "John Hartford",
+      "has_synced": true,
+      "path": "select/10_Back_In_The_Goodle_Days_John_Hartford.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chasing Days",
+      "artist": "Michaela Anne",
+      "has_synced": true,
+      "path": "select/11_Chasing_Days_Michaela_Anne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Consecutive Days Alive",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/12_Consecutive_Days_Alive_Justin_Moore.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dallas Days And Fort Worth Nights",
+      "artist": "Chris LeDoux",
+      "has_synced": true,
+      "path": "select/13_Dallas_Days_And_Fort_Worth_Nights_Chris_LeDoux.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Days Go By",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/14_Days_Go_By_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Grandpa (Tell Me 'Bout the Good Old Days)",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/15_Grandpa_(Tell_Me_'Bout_the_Good_Old_Days)_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Grandpa (Tell Me 'Bout The Good Old Days)",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/16_Grandpa_(Tell_Me_'Bout_The_Good_Old_Days)_The_Judds.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DAYS",
+      "artist": "FLOW",
+      "has_synced": false,
+      "path": "select/pl_01_DAYS_FLOW.txt"
+    }
+  ]
+}
